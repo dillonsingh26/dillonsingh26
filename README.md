@@ -1,6 +1,8 @@
 # Dillon Singh
 
-Analytics professional → data scientist. 7 years turning customer, revenue, and campaign data into executive decisions at AT&T and Level Blue. Founder & sole developer of **StatusTix** — a shipped sports attendance-tracking iOS app (27 leagues, 2,600+ teams, Mixpanel-instrumented funnel, 489 automated tests). Completing an **M.S. in Data Science (Artificial Intelligence specialization)** at Northwestern — December 2026.
+I'm a Master's student in Data Science at Northwestern University, consistently learning how to bring more advanced analytics and AI into impactful, real-world applications — including my own: I founded and built **StatusTix**, a social sports app designed for fans to earn status.
+
+Behind that: 7 years turning customer, revenue, and campaign data into executive decisions at AT&T and Level Blue, and an **M.S. in Data Science (Artificial Intelligence specialization)** completing December 2026. StatusTix under the hood: 27 leagues, 2,600+ teams, Mixpanel-instrumented funnel, 489 automated tests.
 
 🌐 **[dillonsingh26.github.io](https://dillonsingh26.github.io)** · 📧 dillonsingh26.26@gmail.com · 📍 New York, NY (open to relocation)
 
