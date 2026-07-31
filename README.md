@@ -1,6 +1,6 @@
 # Dillon Singh
 
-I'm a Master's student in Data Science at Northwestern University, consistently learning how to bring more advanced analytics and AI into impactful, real-world applications — including my own: I founded and built **StatusTix**, a social sports app designed for fans to earn status.
+I'm a Master's student in Data Science at Northwestern University, focused on bringing advanced analytics and AI into impactful, real-world applications. My current passion is **StatusTix** — a social sports app I founded and built, where fans earn status for showing up.
 
 Behind that: 7 years turning customer, revenue, and campaign data into executive decisions at AT&T and Level Blue, and an **M.S. in Data Science (Artificial Intelligence specialization)** completing December 2026. StatusTix under the hood: 27 leagues, 2,600+ teams, Mixpanel-instrumented funnel, 489 automated tests.
 
