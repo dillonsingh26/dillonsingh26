@@ -4,7 +4,7 @@ I'm a Master's student in Data Science at Northwestern University, focused on br
 
 Behind that: 7 years turning customer, revenue, and campaign data into executive decisions at AT&T and Level Blue, and an **M.S. in Data Science (Artificial Intelligence specialization)** completing December 2026. StatusTix under the hood: 27 leagues, 2,600+ teams, Mixpanel-instrumented funnel, 489 automated tests.
 
-🌐 **[dillonsingh26.github.io](https://dillonsingh26.github.io)** · 📧 dillonsingh26.26@gmail.com · 📍 New York, NY (open to relocation)
+🌐 **[Personal site](https://bucolic-torrone-611119.netlify.app/)** · 📧 dillonsingh26.26@gmail.com · 📍 New York, NY (open to relocation)
 
 ## What I work with
 
